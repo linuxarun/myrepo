@@ -1,0 +1,21 @@
+Make sure these boxes are checked before submitting your code:
+- [ ] Code quality (naming, indentation, formatting, etc.)
+- [ ] Code readability
+- [ ] Code modularity
+- [ ] Null pointer exceptions taken into consideration
+- [ ] Bad library or sdk not used
+- [ ] Feature validated
+- [ ] Feature properly documented (Provide the design doc link in code documentation - Make sure doc is accessible to OYOROOMS group)
+- [ ] Feature completeness
+- [ ] Exceptions handled with care
+- [ ] Used proper data structures
+- [ ] Test coverage(should be more than 80%) - Attach the screenshot in PR
+- [ ] DB query performance (if required)
+- [ ] Security aspect (if required)
+- [ ] Design pattern (Code should not deviate from established pattern without any good reason)
+- [ ] Added proper and sufficient logs with correct log level
+- [ ] Code reusability
+- [ ] Proper commit messages
+- [ ] Documentation of code(method + class)
+- [ ] Is feature backward compatible?
+- [ ] PR should have less than 10 files(Reviewer please approve at your own risk if PR has more no. of files)
